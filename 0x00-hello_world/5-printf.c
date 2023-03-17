@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints "showing a proper documented and incident showing of a glamorous" started by a new line.
- *
+ * main - Prints "A program that prints with printf" started by a new line.
  * Return: Always 0.
  */
 int main(void)
